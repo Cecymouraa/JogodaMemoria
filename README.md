@@ -31,5 +31,3 @@ Um simples **Jogo da Memória** desenvolvido com **HTML**, **CSS** e **JavaScrip
 5. O jogo termina quando todas as cartas forem encontradas **ou quando as vidas acabarem**.  
 
 
-   ```bash
-   git clone https://github.com/seu-usuario/jogo-da-memoria.git
